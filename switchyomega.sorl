@@ -158,7 +158,6 @@ UrlRegex: toutiao
 .biliimg.com
 .bilivideo.com
 .bilivideo.net
-.bing123.com
 .bitauto.com
 .bitautoimg.com
 .bjcathay.com
@@ -848,6 +847,7 @@ UrlRegex: toutiao
 .ydstatic.com
 .yeah.net
 .yhd.com
+.yhgfb-cn-static.com
 .yi958.com
 .yicai.com
 .yiche.com
