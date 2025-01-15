@@ -165,13 +165,13 @@
                         ,
                         r.onopen = function() {
                             r.send(JSON.stringify({
-                                uuid: o+160
+                                uuid: o
                             }))
                         }
                         ,
                         r.onmessage = function(e) {
                             a <= n ? (r.send(JSON.stringify({
-                                uuid: o+160
+                                uuid: o
                             })),
                             a++) : i(!0)
                         }
